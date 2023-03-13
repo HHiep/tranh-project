@@ -1,0 +1,1 @@
+<h1 style="color: royalblue">Chúc mừng bạn đã đăng ký tài khoản của chúng tôi</h1>

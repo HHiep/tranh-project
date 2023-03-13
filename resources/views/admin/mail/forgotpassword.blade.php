@@ -1,0 +1,1 @@
+<h1 style="color: royalblue">Mật khẩu của bạn là: {{$password}}</h1>
